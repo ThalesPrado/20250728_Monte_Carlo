@@ -9,25 +9,18 @@ Além disso, o projeto introduz fundamentos teóricos sobre simulação, gerador
 Estimativa de preço com base em:
 
 Preço médio e desvio padrão de proteína, açúcar e cacau.
-
 Distribuição triangular para custo da embalagem.
-
 Margem bruta personalizada.
 
 Métricas estatísticas:
 
 Média, desvio padrão, percentis P5 e P95.
-
 Convergência da média (Lei dos Grandes Números).
-
 Participação percentual no CMV.
 
 Verificações estatísticas:
-
 ACF (Função de Autocorrelação).
-
 Lag plot.
-
 Teste de aleatoriedade (Runs Test).
 
 Estimativa visual com histograma.
